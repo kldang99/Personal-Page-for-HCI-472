@@ -1,0 +1,15 @@
+@charset "UTF-8"; 
+
+.pink-col{
+    background-color: lightpink;
+    color: white;
+    height: 100px;
+}
+.green-col{
+    background-color: lightgreen;
+    color: white;
+}
+.black-col{
+    background-color: black;
+    color: white;
+}
