@@ -1,0 +1,103 @@
+.nav-link{
+    color:#000000!important;
+  }
+  
+  .bg-body-tertiary {
+    background-color: #f0f0f0 !important;
+  }
+  
+  .nav-link:hover{
+    color:#9b0762 !important;
+  }
+  
+  .active{
+    font-weight: bold !important;
+  }
+  
+  .header {
+    text-align: center;
+    font-family: "National Park", sans-serif;
+    font-size: 35px;
+  
+  }
+  
+  .headerparagraph{
+    text-align: center;
+  }
+  
+  .centered{
+    text-align: center;
+    line-height: 1;
+  }
+  
+    .national-park{
+      font-family: "National Park", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16.5px;
+    }
+  
+  .css-info p {
+    color:#75064A;
+    line-height: .50;
+    white-space: nowrap; 
+    font-size: 16px;
+  }
+  
+  .col-md-12 {
+    max-width: 100%; 
+  }
+  
+  
+  h1{
+      font-family: "National Park", sans-serif;
+      font-size: 61.04px;
+      font-weight: 300;
+    }
+  
+  h2{
+    font-family: "National Park", sans-serif;
+      font-size: 48.83px;
+      font-weight: 425;
+    }
+  
+  h3{
+    font-family: "National Park", sans-serif;
+      font-size: 39.06px;
+      font-weight: 600;
+    }
+  
+  h4{
+    font-family: "National Park", sans-serif;
+      font-size: 31.25px;
+      font-weight: 750;
+    }
+  
+    .nationalbody{
+      font-family: "National Park", sans-serif;
+    }
+    
+  .underline-title{
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: "National Park", sans-serif;
+  }
+  
+  .underline-first-sentence{
+    text-decoration: underline;
+  }
+  
+  a{
+    text-decoration: underline;
+    color: rgb(50, 85, 243); 
+    font-family: "National Park", sans-serif; 
+  }
+  
+  
+  
+  .footer-cy{
+    text-align: center;
+  }
+  
+  

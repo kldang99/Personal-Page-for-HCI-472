@@ -1,0 +1,116 @@
+.nav-link{
+    color:#000000!important;
+  }
+  
+  .bg-body-tertiary {
+    background-color: #f0f0f0 !important;
+  }
+  
+  .nav-link:hover{
+    color:#9b0762 !important;
+  }
+  
+  .active{
+    font-weight: bold !important;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  .headerparagraph{
+    text-align: center;
+  }
+  
+  .centered{
+    text-align: center;
+    line-height: 1;
+  }
+  
+  /* ------------------------------------------------ */
+  .hedvig-font {
+    font-family: 'Hedvig Letters Sans', sans-serif;
+  }
+  
+  .trochut-font {
+    font-family: 'Trochut', serif;
+  }
+  
+  
+  /* Fonts */
+    .hedvig-letters-sans-regular {
+      font-family: "Hedvig Letters Sans", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+  
+    .trochut-regular {
+      font-family: "Trochut", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+  
+  .trochut{
+    font-family: "Trochut", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  
+  .css-info p {
+    color:#75064A; 
+    line-height: .5;
+    font-size: 16;
+  }
+  
+  h1{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+      font-size: 61.04px;
+      font-weight: 300;
+    }
+  
+  h2{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+      font-size: 48.83px;
+      font-weight: 425;
+    }
+  
+  h3{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+      font-size: 39.06px;
+      font-weight: 600;
+    }
+  
+  h4{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+      font-size: 31.25px;
+      font-weight: 750;
+    }
+  
+  .bold-title{
+    font-weight: bold;
+    font-family: "Trochut", sans-serif;
+  }
+  
+  .bold-first-sentence{
+    font-weight: bold;
+  }
+  
+  .inline{
+    font-family: "Trochut", sans-serif;
+  }
+  
+  a {
+    text-decoration: underline;
+    color: rgb(50, 85, 243);  
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .footer-cy{
+    text-align: center;
+  }
+  
+  
