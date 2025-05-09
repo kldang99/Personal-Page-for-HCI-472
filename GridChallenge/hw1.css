@@ -93,3 +93,9 @@
   .carousel-control-next-icon{
     background-color: #1e1d74;
   }
+
+  .card-img-top{
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
